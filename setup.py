@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="simple_package_yeonjin",
+    name="simple_package_yeonjinkkk",
     version="0.1.0",
     packages=find_packages(),
     description="A simple package for reversing strings",
